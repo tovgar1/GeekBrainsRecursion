@@ -8,16 +8,17 @@ git init
 ```sh
 git add
 ```
+##  Коммит (запись изменений)
 ```sh
 git commit -m "Message"
 ```
-
+##  Просмотр истории коммитов
 ```sh
 git log
 git log --oneline
 ```
 
-
+## Возврат на прошлые коммиты
 ```sh
-git checkout
+git checkout <commit_id>
 ```

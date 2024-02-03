@@ -37,3 +37,10 @@ git branch <branch>
 git merge <branch>
 ```
 
+
+### тут будет конфликт веток
+
+
+
+
+

@@ -18,7 +18,20 @@ git log
 git log --oneline
 ```
 
-## Возврат на прошлые коммиты
+## Перемещение по коммитам/веткам
 ```sh
 git checkout <commit_id>
+```
+
+
+## Переключение по веткам
+
+```sh
+git branch <branch>
+```
+
+## Слияение веток
+
+```sh
+git merge <branch>
 ```

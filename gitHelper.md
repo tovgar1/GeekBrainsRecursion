@@ -20,7 +20,7 @@ git log --oneline
 
 ## Перемещение по коммитам/веткам
 ```sh
-git checkout <commit_id>
+git checkout <commit_id/branch_name>
 ```
 
 
@@ -35,3 +35,4 @@ git branch <branch>
 ```sh
 git merge <branch>
 ```
+

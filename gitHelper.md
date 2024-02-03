@@ -31,9 +31,13 @@ git checkout <commit_id/branch_name>
 git branch <branch>
 ```
 
-## Слияение веток
+## Слияние веток
 
 ```sh
 git merge <branch>
 ```
 
+## Просмотр истории коммитов с разделением по веткам(?)
+```sh
+git log --oneline --graph
+```

@@ -18,7 +18,7 @@ git log
 git log --oneline
 ```
 
-## Возврат на прошлые коммиты
+## Перемещение по веткам/коммитам
 ```sh
 git checkout <commit_id>
 ```
